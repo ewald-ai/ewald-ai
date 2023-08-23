@@ -1,7 +1,8 @@
 # Hi there, I'm Ewald 👋 
 
 [![Google Play Store](https://img.shields.io/badge/google-play-tore)](https://play.google.com/store/apps/developer?id=ABC+Inc+Lab)
-[![Odafasta](https://img.shields.io/badge/Odafasta-website)](https://play.google.com/store/apps/developer?id=ABC+Inc+Lab)
+[![Odafasta](https://img.shields.io/badge/Odafasta-website?labelColor=FF4510&color=FF4510
+)](https://play.google.com/store/apps/developer?id=ABC+Inc+Lab)
 
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
