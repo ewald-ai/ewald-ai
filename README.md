@@ -22,17 +22,17 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/ewald-abraham-55b80b1b6#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/ewald-abraham-55b80b1b6#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ewald-abraham-55b80b1b6#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ewald-abraham-55b80b1b6#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages, Frameworks and Tools:
 
-<img align="left" alt="PhpMyAdmin" height="30px" src="./img/flutter-logo.png" />
-<img align="left" alt="PhpMyAdmin" height="30px" src="./img/php.png" />
-<img align="left" alt="PhpMyAdmin" height="30px" src="./img/laravel.png" />
+<img align="left" alt="flutter" height="30px" src="./img/flutter-logo.png" />
+<img align="left" alt="php" height="30px" src="./img/php.png" />
+<img align="left" alt="laravel" height="30px" src="./img/laravel.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
