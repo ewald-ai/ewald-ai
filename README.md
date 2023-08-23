@@ -1,7 +1,9 @@
-# Hi, I'm Ewald 👋 
+
+ # Hi, I'm Ewald 👋 
 
 [![Google Play Store](https://img.shields.io/badge/google-play-tore)](https://play.google.com/store/apps/developer?id=ABC+Inc+Lab)
 [![Odafasta](https://img.shields.io/badge/Odafasta-website?color=FF4510)](https://play.google.com/store/apps/developer?id=ABC+Inc+Lab)
+
 
 ## I'm a Software developer!!
 
@@ -10,6 +12,7 @@
 - 🥅 Goals: Learn more about Machine learning
 - 😍 I also love Grahics designing & Video editing
 - 📧 You can reach me via my email ewalda905@gmail.com
+
 
 ### Connect with me:
 
@@ -44,6 +47,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PhpMyAdmin" height="30px" src="./img/android-studio.png" />
 
+
+### Github status
+
+<img align="left" alt="ewald's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ewald-ai&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
 <br />
 <br />
 
@@ -59,16 +68,5 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!--  - [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4) -->
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ewald-ai&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 
