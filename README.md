@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goals: Learn more about Machine learning
-- 😍 I also love Grahics designing & Video editing
+- 😍 I also love Graphics designing & Video editing
 - 📧 You can reach me via my email ewalda905@gmail.com
 
 
